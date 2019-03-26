@@ -16,7 +16,7 @@ Or one dataset using cross validation
 To alter between one dataset cross validation and training & testing set, comment or uncomment the corresponding codes.
 
 ## note
-The data in this repository is for demonstration, and they are insufficient for acquiring desirable performance.
+This model performs better with relatively large amount of training data. The dataset in this repository is for demonstration, the mere amount of which is insufficient for acquiring desirable performance.
 
 ## more information
 For more information (in Chinese), please visit [my blog](https://blog.csdn.net/rocachilles/article/details/87894808)
